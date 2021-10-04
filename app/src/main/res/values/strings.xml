@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Generation app</string>
+    <string name="get_result">Get result</string>
+    <string name="tittle_string">Welcome to the app \n
+        Click on the year to select the desired value, then click on the button get result</string>
+    <string name="baby_boomer">Baby-boomer</string>
+    <string name="gen_x">Generation X</string>
+    <string name="gen_y">Generation Y</string>
+    <string name="gen_z">Generation Z</string>
+    <string name="invalid_argument">Invalid argument:(</string>
+</resources>
