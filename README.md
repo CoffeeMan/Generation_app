@@ -1,2 +1,2 @@
 # Generation_app
-![alt text]https://dropmefiles.com/oBNkD)
+![]https://dropmefiles.com/oBNkD)
